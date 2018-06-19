@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 1a52615fdf38f2246a197995b42aedec
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 1H_Sword_Wood_01
+    100004: Humanoid IK Ctrl Root
+    100006: Huminoid
+    100008: Huminoid Cheek L
+    100010: Huminoid Cheek R
+    100012: Huminoid Chest Left
+    100014: Huminoid Chest Right
+    100016: Huminoid Chin
+    100018: Huminoid Ear R
+    100020: Huminoid Ear R 1
+    100022: Huminoid Eye Brow L 01
+    100024: Huminoid Eye Brow L 02
+    100026: Huminoid Eye Brow L 03
+    100028: Huminoid Eye Brow R 01
+    100030: Huminoid Eye Brow R 02
+    100032: Huminoid Eye Brow R 03
+    100034: Huminoid Eye Left
+    100036: Huminoid Eye Right
+    100038: Huminoid Head
+    100040: Huminoid Jaw
+    100042: Huminoid Left Arm Collarbone
+    100044: Huminoid Left Arm Forearm1
+    100046: Huminoid Left Arm Forearm2
+    100048: Huminoid Left Arm Forearm3
+    100050: Huminoid Left Arm Hand
+    100052: Huminoid Left Arm IKTarget
+    100054: Huminoid Left Arm Middle 1
+    100056: Huminoid Left Arm Middle 2
+    100058: Huminoid Left Arm Middle 3
+    100060: Huminoid Left Arm Pinky 1
+    100062: Huminoid Left Arm Pinky 2
+    100064: Huminoid Left Arm Pinky 3
+    100066: Huminoid Left Arm Pointer 1
+    100068: Huminoid Left Arm Pointer 2
+    100070: Huminoid Left Arm Pointer 3
+    100072: Huminoid Left Arm Ring 1
+    100074: Huminoid Left Arm Ring 2
+    100076: Huminoid Left Arm Ring 3
+    100078: Huminoid Left Arm Thumb 1
+    100080: Huminoid Left Arm Thumb 2
+    100082: Huminoid Left Arm Thumb 3
+    100084: Huminoid Left Arm Upperarm
+    100086: Huminoid Left Arm UpVectorNode
+    100088: Huminoid Left Hand Holder
+    100090: Huminoid Left Leg Ankle
+    100092: Huminoid Left Leg Calf
+    100094: Huminoid Left Leg Foot 1
+    100096: Huminoid Left Leg Foot Toes
+    100098: Huminoid Left Leg Platform
+    100100: Huminoid Left Leg Thigh
+    100102: Huminoid Left Leg UpVectorNode
+    100104: Huminoid Lip Corner L
+    100106: Huminoid Lip Corner R
+    100108: Huminoid Lip Lower
+    100110: Huminoid Lip Lower Mid L
+    100112: Huminoid Lip Lower Mid R
+    100114: Huminoid Lip Upper
+    100116: Huminoid Lip Upper Mid L
+    100118: Huminoid Lip Upper Mid R
+    100120: Huminoid Lower Eye Lid L 01
+    100122: Huminoid Lower Eye Lid L 02
+    100124: Huminoid Lower Eye Lid L 03
+    100126: Huminoid Lower Eye Lid R 01
+    100128: Huminoid Lower Eye Lid R 02
+    100130: Huminoid Lower Eye Lid R 03
+    100132: Huminoid Neck
+    100134: Huminoid Nose Bridge
+    100136: Huminoid Nose Tip
+    100138: Huminoid Nostril L
+    100140: Huminoid Nostril R
+    100142: Huminoid Pelvis
+    100144: Huminoid Ribcage
+    100146: Huminoid Right Arm Collarbone
+    100148: Huminoid Right Arm Forearm1
+    100150: Huminoid Right Arm Forearm2
+    100152: Huminoid Right Arm Forearm3
+    100154: Huminoid Right Arm Hand
+    100156: Huminoid Right Arm IKTarget
+    100158: Huminoid Right Arm Middle 1
+    100160: Huminoid Right Arm Middle 2
+    100162: Huminoid Right Arm Middle 3
+    100164: Huminoid Right Arm Pinky 1
+    100166: Huminoid Right Arm Pinky 2
+    100168: Huminoid Right Arm Pinky 3
+    100170: Huminoid Right Arm Pointer 1
+    100172: Huminoid Right Arm Pointer 2
+    100174: Huminoid Right Arm Pointer 3
+    100176: Huminoid Right Arm Ring 1
+    100178: Huminoid Right Arm Ring 2
+    100180: Huminoid Right Arm Ring 3
+    100182: Huminoid Right Arm Thumb 1
+    100184: Huminoid Right Arm Thumb 2
+    100186: Huminoid Right Arm Thumb 3
+    100188: Huminoid Right Arm Upperarm
+    100190: Huminoid Right Arm UpVectorNode
+    100192: Huminoid Right Hand Holder
+    100194: Huminoid Right Leg Ankle
+    100196: Huminoid Right Leg Calf
+    100198: Huminoid Right Leg Foot 1
+    100200: Huminoid Right Leg Foot Toes
+    100202: Huminoid Right Leg Platform
+    100204: Huminoid Right Leg Thigh
+    100206: Huminoid Right Leg UpVectorNode
+    100208: Huminoid Spine1
+    100210: Huminoid Spine2
+    100212: Huminoid Spine3
+    100214: Huminoid Toung 01
+    100216: Huminoid Toung 02
+    100218: Huminoid Toung 03
+    100220: Huminoid Upper Eye Lid L 01
+    100222: Huminoid Upper Eye Lid L 02
+    100224: Huminoid Upper Eye Lid L 03
+    100226: Huminoid Upper Eye Lid R 01
+    100228: Huminoid Upper Eye Lid R 02
+    100230: Huminoid Upper Eye Lid R 03
+    400000: //RootNode
+    400002: 1H_Sword_Wood_01
+    400004: Humanoid IK Ctrl Root
+    400006: Huminoid
+    400008: Huminoid Cheek L
+    400010: Huminoid Cheek R
+    400012: Huminoid Chest Left
+    400014: Huminoid Chest Right
+    400016: Huminoid Chin
+    400018: Huminoid Ear R
+    400020: Huminoid Ear R 1
+    400022: Huminoid Eye Brow L 01
+    400024: Huminoid Eye Brow L 02
+    400026: Huminoid Eye Brow L 03
+    400028: Huminoid Eye Brow R 01
+    400030: Huminoid Eye Brow R 02
+    400032: Huminoid Eye Brow R 03
+    400034: Huminoid Eye Left
+    400036: Huminoid Eye Right
+    400038: Huminoid Head
+    400040: Huminoid Jaw
+    400042: Huminoid Left Arm Collarbone
+    400044: Huminoid Left Arm Forearm1
+    400046: Huminoid Left Arm Forearm2
+    400048: Huminoid Left Arm Forearm3
+    400050: Huminoid Left Arm Hand
+    400052: Huminoid Left Arm IKTarget
+    400054: Huminoid Left Arm Middle 1
+    400056: Huminoid Left Arm Middle 2
+    400058: Huminoid Left Arm Middle 3
+    400060: Huminoid Left Arm Pinky 1
+    400062: Huminoid Left Arm Pinky 2
+    400064: Huminoid Left Arm Pinky 3
+    400066: Huminoid Left Arm Pointer 1
+    400068: Huminoid Left Arm Pointer 2
+    400070: Huminoid Left Arm Pointer 3
+    400072: Huminoid Left Arm Ring 1
+    400074: Huminoid Left Arm Ring 2
+    400076: Huminoid Left Arm Ring 3
+    400078: Huminoid Left Arm Thumb 1
+    400080: Huminoid Left Arm Thumb 2
+    400082: Huminoid Left Arm Thumb 3
+    400084: Huminoid Left Arm Upperarm
+    400086: Huminoid Left Arm UpVectorNode
+    400088: Huminoid Left Hand Holder
+    400090: Huminoid Left Leg Ankle
+    400092: Huminoid Left Leg Calf
+    400094: Huminoid Left Leg Foot 1
+    400096: Huminoid Left Leg Foot Toes
+    400098: Huminoid Left Leg Platform
+    400100: Huminoid Left Leg Thigh
+    400102: Huminoid Left Leg UpVectorNode
+    400104: Huminoid Lip Corner L
+    400106: Huminoid Lip Corner R
+    400108: Huminoid Lip Lower
+    400110: Huminoid Lip Lower Mid L
+    400112: Huminoid Lip Lower Mid R
+    400114: Huminoid Lip Upper
+    400116: Huminoid Lip Upper Mid L
+    400118: Huminoid Lip Upper Mid R
+    400120: Huminoid Lower Eye Lid L 01
+    400122: Huminoid Lower Eye Lid L 02
+    400124: Huminoid Lower Eye Lid L 03
+    400126: Huminoid Lower Eye Lid R 01
+    400128: Huminoid Lower Eye Lid R 02
+    400130: Huminoid Lower Eye Lid R 03
+    400132: Huminoid Neck
+    400134: Huminoid Nose Bridge
+    400136: Huminoid Nose Tip
+    400138: Huminoid Nostril L
+    400140: Huminoid Nostril R
+    400142: Huminoid Pelvis
+    400144: Huminoid Ribcage
+    400146: Huminoid Right Arm Collarbone
+    400148: Huminoid Right Arm Forearm1
+    400150: Huminoid Right Arm Forearm2
+    400152: Huminoid Right Arm Forearm3
+    400154: Huminoid Right Arm Hand
+    400156: Huminoid Right Arm IKTarget
+    400158: Huminoid Right Arm Middle 1
+    400160: Huminoid Right Arm Middle 2
+    400162: Huminoid Right Arm Middle 3
+    400164: Huminoid Right Arm Pinky 1
+    400166: Huminoid Right Arm Pinky 2
+    400168: Huminoid Right Arm Pinky 3
+    400170: Huminoid Right Arm Pointer 1
+    400172: Huminoid Right Arm Pointer 2
+    400174: Huminoid Right Arm Pointer 3
+    400176: Huminoid Right Arm Ring 1
+    400178: Huminoid Right Arm Ring 2
+    400180: Huminoid Right Arm Ring 3
+    400182: Huminoid Right Arm Thumb 1
+    400184: Huminoid Right Arm Thumb 2
+    400186: Huminoid Right Arm Thumb 3
+    400188: Huminoid Right Arm Upperarm
+    400190: Huminoid Right Arm UpVectorNode
+    400192: Huminoid Right Hand Holder
+    400194: Huminoid Right Leg Ankle
+    400196: Huminoid Right Leg Calf
+    400198: Huminoid Right Leg Foot 1
+    400200: Huminoid Right Leg Foot Toes
+    400202: Huminoid Right Leg Platform
+    400204: Huminoid Right Leg Thigh
+    400206: Huminoid Right Leg UpVectorNode
+    400208: Huminoid Spine1
+    400210: Huminoid Spine2
+    400212: Huminoid Spine3
+    400214: Huminoid Toung 01
+    400216: Huminoid Toung 02
+    400218: Huminoid Toung 03
+    400220: Huminoid Upper Eye Lid L 01
+    400222: Huminoid Upper Eye Lid L 02
+    400224: Huminoid Upper Eye Lid L 03
+    400226: Huminoid Upper Eye Lid R 01
+    400228: Huminoid Upper Eye Lid R 02
+    400230: Huminoid Upper Eye Lid R 03
+    2100000: Amalia
+    2100002: Amalia - Rope
+    2100004: No Name
+    2300000: //RootNode
+    2300002: 1H_Sword_Wood_01
+    2300004: Huminoid Cheek L
+    2300006: Huminoid Cheek R
+    2300008: Huminoid Chest Left
+    2300010: Huminoid Chest Right
+    2300012: Huminoid Chin
+    2300014: Huminoid Ear R
+    2300016: Huminoid Ear R 1
+    2300018: Huminoid Eye Brow L 01
+    2300020: Huminoid Eye Brow L 02
+    2300022: Huminoid Eye Brow L 03
+    2300024: Huminoid Eye Brow R 01
+    2300026: Huminoid Eye Brow R 02
+    2300028: Huminoid Eye Brow R 03
+    2300030: Huminoid Eye Left
+    2300032: Huminoid Eye Right
+    2300034: Huminoid Jaw
+    2300036: Huminoid Left Arm Middle 1
+    2300038: Huminoid Left Arm Middle 2
+    2300040: Huminoid Left Arm Middle 3
+    2300042: Huminoid Left Arm Pinky 1
+    2300044: Huminoid Left Arm Pinky 2
+    2300046: Huminoid Left Arm Pinky 3
+    2300048: Huminoid Left Arm Pointer 1
+    2300050: Huminoid Left Arm Pointer 2
+    2300052: Huminoid Left Arm Pointer 3
+    2300054: Huminoid Left Arm Ring 1
+    2300056: Huminoid Left Arm Ring 2
+    2300058: Huminoid Left Arm Ring 3
+    2300060: Huminoid Left Arm Thumb 1
+    2300062: Huminoid Left Arm Thumb 2
+    2300064: Huminoid Left Arm Thumb 3
+    2300066: Huminoid Left Hand Holder
+    2300068: Huminoid Left Leg Foot 1
+    2300070: Huminoid Left Leg Foot Toes
+    2300072: Huminoid Lip Corner L
+    2300074: Huminoid Lip Corner R
+    2300076: Huminoid Lip Lower
+    2300078: Huminoid Lip Lower Mid L
+    2300080: Huminoid Lip Lower Mid R
+    2300082: Huminoid Lip Upper
+    2300084: Huminoid Lip Upper Mid L
+    2300086: Huminoid Lip Upper Mid R
+    2300088: Huminoid Lower Eye Lid L 01
+    2300090: Huminoid Lower Eye Lid L 02
+    2300092: Huminoid Lower Eye Lid L 03
+    2300094: Huminoid Lower Eye Lid R 01
+    2300096: Huminoid Lower Eye Lid R 02
+    2300098: Huminoid Lower Eye Lid R 03
+    2300100: Huminoid Nose Bridge
+    2300102: Huminoid Nose Tip
+    2300104: Huminoid Nostril L
+    2300106: Huminoid Nostril R
+    2300108: Huminoid Right Arm Middle 1
+    2300110: Huminoid Right Arm Middle 2
+    2300112: Huminoid Right Arm Middle 3
+    2300114: Huminoid Right Arm Pinky 1
+    2300116: Huminoid Right Arm Pinky 2
+    2300118: Huminoid Right Arm Pinky 3
+    2300120: Huminoid Right Arm Pointer 1
+    2300122: Huminoid Right Arm Pointer 2
+    2300124: Huminoid Right Arm Pointer 3
+    2300126: Huminoid Right Arm Ring 1
+    2300128: Huminoid Right Arm Ring 2
+    2300130: Huminoid Right Arm Ring 3
+    2300132: Huminoid Right Arm Thumb 1
+    2300134: Huminoid Right Arm Thumb 2
+    2300136: Huminoid Right Arm Thumb 3
+    2300138: Huminoid Right Hand Holder
+    2300140: Huminoid Right Leg Foot 1
+    2300142: Huminoid Right Leg Foot Toes
+    2300144: Huminoid Toung 01
+    2300146: Huminoid Toung 02
+    2300148: Huminoid Toung 03
+    2300150: Huminoid Upper Eye Lid L 01
+    2300152: Huminoid Upper Eye Lid L 02
+    2300154: Huminoid Upper Eye Lid L 03
+    2300156: Huminoid Upper Eye Lid R 01
+    2300158: Huminoid Upper Eye Lid R 02
+    2300160: Huminoid Upper Eye Lid R 03
+    3300000: //RootNode
+    3300002: 1H_Sword_Wood_01
+    3300004: Huminoid Cheek L
+    3300006: Huminoid Cheek R
+    3300008: Huminoid Chest Left
+    3300010: Huminoid Chest Right
+    3300012: Huminoid Chin
+    3300014: Huminoid Ear R
+    3300016: Huminoid Ear R 1
+    3300018: Huminoid Eye Brow L 01
+    3300020: Huminoid Eye Brow L 02
+    3300022: Huminoid Eye Brow L 03
+    3300024: Huminoid Eye Brow R 01
+    3300026: Huminoid Eye Brow R 02
+    3300028: Huminoid Eye Brow R 03
+    3300030: Huminoid Eye Left
+    3300032: Huminoid Eye Right
+    3300034: Huminoid Jaw
+    3300036: Huminoid Left Arm Middle 1
+    3300038: Huminoid Left Arm Middle 2
+    3300040: Huminoid Left Arm Middle 3
+    3300042: Huminoid Left Arm Pinky 1
+    3300044: Huminoid Left Arm Pinky 2
+    3300046: Huminoid Left Arm Pinky 3
+    3300048: Huminoid Left Arm Pointer 1
+    3300050: Huminoid Left Arm Pointer 2
+    3300052: Huminoid Left Arm Pointer 3
+    3300054: Huminoid Left Arm Ring 1
+    3300056: Huminoid Left Arm Ring 2
+    3300058: Huminoid Left Arm Ring 3
+    3300060: Huminoid Left Arm Thumb 1
+    3300062: Huminoid Left Arm Thumb 2
+    3300064: Huminoid Left Arm Thumb 3
+    3300066: Huminoid Left Hand Holder
+    3300068: Huminoid Left Leg Foot 1
+    3300070: Huminoid Left Leg Foot Toes
+    3300072: Huminoid Lip Corner L
+    3300074: Huminoid Lip Corner R
+    3300076: Huminoid Lip Lower
+    3300078: Huminoid Lip Lower Mid L
+    3300080: Huminoid Lip Lower Mid R
+    3300082: Huminoid Lip Upper
+    3300084: Huminoid Lip Upper Mid L
+    3300086: Huminoid Lip Upper Mid R
+    3300088: Huminoid Lower Eye Lid L 01
+    3300090: Huminoid Lower Eye Lid L 02
+    3300092: Huminoid Lower Eye Lid L 03
+    3300094: Huminoid Lower Eye Lid R 01
+    3300096: Huminoid Lower Eye Lid R 02
+    3300098: Huminoid Lower Eye Lid R 03
+    3300100: Huminoid Nose Bridge
+    3300102: Huminoid Nose Tip
+    3300104: Huminoid Nostril L
+    3300106: Huminoid Nostril R
+    3300108: Huminoid Right Arm Middle 1
+    3300110: Huminoid Right Arm Middle 2
+    3300112: Huminoid Right Arm Middle 3
+    3300114: Huminoid Right Arm Pinky 1
+    3300116: Huminoid Right Arm Pinky 2
+    3300118: Huminoid Right Arm Pinky 3
+    3300120: Huminoid Right Arm Pointer 1
+    3300122: Huminoid Right Arm Pointer 2
+    3300124: Huminoid Right Arm Pointer 3
+    3300126: Huminoid Right Arm Ring 1
+    3300128: Huminoid Right Arm Ring 2
+    3300130: Huminoid Right Arm Ring 3
+    3300132: Huminoid Right Arm Thumb 1
+    3300134: Huminoid Right Arm Thumb 2
+    3300136: Huminoid Right Arm Thumb 3
+    3300138: Huminoid Right Hand Holder
+    3300140: Huminoid Right Leg Foot 1
+    3300142: Huminoid Right Leg Foot Toes
+    3300144: Huminoid Toung 01
+    3300146: Huminoid Toung 02
+    3300148: Huminoid Toung 03
+    3300150: Huminoid Upper Eye Lid L 01
+    3300152: Huminoid Upper Eye Lid L 02
+    3300154: Huminoid Upper Eye Lid L 03
+    3300156: Huminoid Upper Eye Lid R 01
+    3300158: Huminoid Upper Eye Lid R 02
+    3300160: Huminoid Upper Eye Lid R 03
+    4300000: 1H_Sword_Wood_01
+    4300002: Huminoid Left Leg Foot 1
+    4300004: Huminoid Left Leg Foot Toes
+    4300006: Huminoid Right Leg Foot 1
+    4300008: Huminoid Right Leg Foot Toes
+    4300010: Huminoid Left Arm Thumb 1
+    4300012: Huminoid Left Arm Thumb 2
+    4300014: Huminoid Left Arm Thumb 3
+    4300016: Huminoid Left Arm Pointer 1
+    4300018: Huminoid Left Arm Pointer 2
+    4300020: Huminoid Left Arm Pointer 3
+    4300022: Huminoid Left Arm Middle 1
+    4300024: Huminoid Left Arm Middle 2
+    4300026: Huminoid Left Arm Middle 3
+    4300028: Huminoid Left Arm Ring 1
+    4300030: Huminoid Left Arm Ring 2
+    4300032: Huminoid Left Arm Ring 3
+    4300034: Huminoid Left Arm Pinky 1
+    4300036: Huminoid Left Arm Pinky 2
+    4300038: Huminoid Left Arm Pinky 3
+    4300040: Huminoid Left Hand Holder
+    4300042: Huminoid Right Arm Thumb 1
+    4300044: Huminoid Right Arm Thumb 2
+    4300046: Huminoid Right Arm Thumb 3
+    4300048: Huminoid Right Arm Pointer 1
+    4300050: Huminoid Right Arm Pointer 2
+    4300052: Huminoid Right Arm Pointer 3
+    4300054: Huminoid Right Arm Middle 1
+    4300056: Huminoid Right Arm Middle 2
+    4300058: Huminoid Right Arm Middle 3
+    4300060: Huminoid Right Arm Ring 1
+    4300062: Huminoid Right Arm Ring 2
+    4300064: Huminoid Right Arm Ring 3
+    4300066: Huminoid Right Arm Pinky 1
+    4300068: Huminoid Right Arm Pinky 2
+    4300070: Huminoid Right Arm Pinky 3
+    4300072: Huminoid Right Hand Holder
+    4300074: Huminoid Eye Left
+    4300076: Huminoid Eye Right
+    4300078: Huminoid Eye Brow R 02
+    4300080: Huminoid Eye Brow R 03
+    4300082: Huminoid Eye Brow R 01
+    4300084: Huminoid Upper Eye Lid R 02
+    4300086: Huminoid Upper Eye Lid R 01
+    4300088: Huminoid Upper Eye Lid R 03
+    4300090: Huminoid Lower Eye Lid R 02
+    4300092: Huminoid Lower Eye Lid R 01
+    4300094: Huminoid Lower Eye Lid R 03
+    4300096: Huminoid Cheek L
+    4300098: Huminoid Nostril L
+    4300100: Huminoid Lip Corner L
+    4300102: Huminoid Lip Upper Mid L
+    4300104: Huminoid Lip Upper
+    4300106: Huminoid Jaw
+    4300108: Huminoid Toung 01
+    4300110: Huminoid Toung 02
+    4300112: Huminoid Toung 03
+    4300114: Huminoid Lip Lower
+    4300116: Huminoid Lip Lower Mid L
+    4300118: Huminoid Lip Lower Mid R
+    4300120: Huminoid Chin
+    4300122: Huminoid Eye Brow L 02
+    4300124: Huminoid Eye Brow L 03
+    4300126: Huminoid Eye Brow L 01
+    4300128: Huminoid Upper Eye Lid L 02
+    4300130: Huminoid Upper Eye Lid L 01
+    4300132: Huminoid Upper Eye Lid L 03
+    4300134: Huminoid Lower Eye Lid L 02
+    4300136: Huminoid Lower Eye Lid L 01
+    4300138: Huminoid Lower Eye Lid L 03
+    4300140: Huminoid Cheek R
+    4300142: Huminoid Nostril R
+    4300144: Huminoid Lip Corner R
+    4300146: Huminoid Lip Upper Mid R
+    4300148: Huminoid Nose Tip
+    4300150: Huminoid Nose Bridge
+    4300152: Huminoid Ear R
+    4300154: Huminoid Ear R
+    4300156: Huminoid Chest Right
+    4300158: Huminoid Chest Left
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

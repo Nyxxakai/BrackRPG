@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc74083706f5a184299ac31ba3108785, type: 3}
+  m_Name: 1H_Sword_Wood_01
+  m_EditorClassIdentifier: 
+  name: Wood Sword
+  icon: {fileID: 21300000, guid: 75373fe4c1cdf344e84daca023db5571, type: 3}
+  isDefaultItem: 0
+  equipSlot: 6
+  mesh: {fileID: 100000, guid: 4d6443ac1a89ca747b37ee29aa853deb, type: 3}
+  armorModifier: 0
+  damageModifier: 3

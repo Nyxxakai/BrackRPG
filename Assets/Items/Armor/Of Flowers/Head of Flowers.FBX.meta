@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: a5074cc9a6b9f094dbfb92e87975c55f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Head of Flowers
+    100004: Huminoid
+    100006: Huminoid Cheek L
+    100008: Huminoid Cheek R
+    100010: Huminoid Chest Left
+    100012: Huminoid Chest Right
+    100014: Huminoid Chin
+    100016: Huminoid Ear R
+    100018: Huminoid Ear R 1
+    100020: Huminoid Eye Brow L 01
+    100022: Huminoid Eye Brow L 02
+    100024: Huminoid Eye Brow L 03
+    100026: Huminoid Eye Brow R 01
+    100028: Huminoid Eye Brow R 02
+    100030: Huminoid Eye Brow R 03
+    100032: Huminoid Eye Left
+    100034: Huminoid Eye Right
+    100036: Huminoid Head
+    100038: Huminoid Jaw
+    100040: Huminoid Left Arm Collarbone
+    100042: Huminoid Left Arm Forearm1
+    100044: Huminoid Left Arm Forearm2
+    100046: Huminoid Left Arm Forearm3
+    100048: Huminoid Left Arm Hand
+    100050: Huminoid Left Arm Middle 1
+    100052: Huminoid Left Arm Middle 2
+    100054: Huminoid Left Arm Middle 3
+    100056: Huminoid Left Arm Pinky 1
+    100058: Huminoid Left Arm Pinky 2
+    100060: Huminoid Left Arm Pinky 3
+    100062: Huminoid Left Arm Pointer 1
+    100064: Huminoid Left Arm Pointer 2
+    100066: Huminoid Left Arm Pointer 3
+    100068: Huminoid Left Arm Ring 1
+    100070: Huminoid Left Arm Ring 2
+    100072: Huminoid Left Arm Ring 3
+    100074: Huminoid Left Arm Thumb 1
+    100076: Huminoid Left Arm Thumb 2
+    100078: Huminoid Left Arm Thumb 3
+    100080: Huminoid Left Arm Upperarm
+    100082: Huminoid Left Leg Ankle
+    100084: Huminoid Left Leg Calf
+    100086: Huminoid Left Leg Foot 1
+    100088: Huminoid Left Leg Foot Toes
+    100090: Huminoid Left Leg Thigh
+    100092: Huminoid Lip Corner L
+    100094: Huminoid Lip Corner R
+    100096: Huminoid Lip Lower
+    100098: Huminoid Lip Lower Mid L
+    100100: Huminoid Lip Lower Mid R
+    100102: Huminoid Lip Upper
+    100104: Huminoid Lip Upper Mid L
+    100106: Huminoid Lip Upper Mid R
+    100108: Huminoid Lower Eye Lid L 01
+    100110: Huminoid Lower Eye Lid L 02
+    100112: Huminoid Lower Eye Lid L 03
+    100114: Huminoid Lower Eye Lid R 01
+    100116: Huminoid Lower Eye Lid R 02
+    100118: Huminoid Lower Eye Lid R 03
+    100120: Huminoid Neck
+    100122: Huminoid Nose Bridge
+    100124: Huminoid Nose Tip
+    100126: Huminoid Nostril L
+    100128: Huminoid Nostril R
+    100130: Huminoid Pelvis
+    100132: Huminoid Ribcage
+    100134: Huminoid Right Arm Collarbone
+    100136: Huminoid Right Arm Forearm1
+    100138: Huminoid Right Arm Forearm2
+    100140: Huminoid Right Arm Forearm3
+    100142: Huminoid Right Arm Hand
+    100144: Huminoid Right Arm Middle 1
+    100146: Huminoid Right Arm Middle 2
+    100148: Huminoid Right Arm Middle 3
+    100150: Huminoid Right Arm Pinky 1
+    100152: Huminoid Right Arm Pinky 2
+    100154: Huminoid Right Arm Pinky 3
+    100156: Huminoid Right Arm Pointer 1
+    100158: Huminoid Right Arm Pointer 2
+    100160: Huminoid Right Arm Pointer 3
+    100162: Huminoid Right Arm Ring 1
+    100164: Huminoid Right Arm Ring 2
+    100166: Huminoid Right Arm Ring 3
+    100168: Huminoid Right Arm Thumb 1
+    100170: Huminoid Right Arm Thumb 2
+    100172: Huminoid Right Arm Thumb 3
+    100174: Huminoid Right Arm Upperarm
+    100176: Huminoid Right Leg Ankle
+    100178: Huminoid Right Leg Calf
+    100180: Huminoid Right Leg Foot 1
+    100182: Huminoid Right Leg Foot Toes
+    100184: Huminoid Right Leg Thigh
+    100186: Huminoid Spine1
+    100188: Huminoid Spine2
+    100190: Huminoid Spine3
+    100192: Huminoid Toung 01
+    100194: Huminoid Toung 02
+    100196: Huminoid Toung 03
+    100198: Huminoid Upper Eye Lid L 01
+    100200: Huminoid Upper Eye Lid L 02
+    100202: Huminoid Upper Eye Lid L 03
+    100204: Huminoid Upper Eye Lid R 01
+    100206: Huminoid Upper Eye Lid R 02
+    100208: Huminoid Upper Eye Lid R 03
+    400000: Head of Flowers
+    400002: //RootNode
+    400004: Huminoid
+    400006: Huminoid Cheek L
+    400008: Huminoid Cheek R
+    400010: Huminoid Chest Left
+    400012: Huminoid Chest Right
+    400014: Huminoid Chin
+    400016: Huminoid Ear R
+    400018: Huminoid Ear R 1
+    400020: Huminoid Eye Brow L 01
+    400022: Huminoid Eye Brow L 02
+    400024: Huminoid Eye Brow L 03
+    400026: Huminoid Eye Brow R 01
+    400028: Huminoid Eye Brow R 02
+    400030: Huminoid Eye Brow R 03
+    400032: Huminoid Eye Left
+    400034: Huminoid Eye Right
+    400036: Huminoid Head
+    400038: Huminoid Jaw
+    400040: Huminoid Left Arm Collarbone
+    400042: Huminoid Left Arm Forearm1
+    400044: Huminoid Left Arm Forearm2
+    400046: Huminoid Left Arm Forearm3
+    400048: Huminoid Left Arm Hand
+    400050: Huminoid Left Arm Middle 1
+    400052: Huminoid Left Arm Middle 2
+    400054: Huminoid Left Arm Middle 3
+    400056: Huminoid Left Arm Pinky 1
+    400058: Huminoid Left Arm Pinky 2
+    400060: Huminoid Left Arm Pinky 3
+    400062: Huminoid Left Arm Pointer 1
+    400064: Huminoid Left Arm Pointer 2
+    400066: Huminoid Left Arm Pointer 3
+    400068: Huminoid Left Arm Ring 1
+    400070: Huminoid Left Arm Ring 2
+    400072: Huminoid Left Arm Ring 3
+    400074: Huminoid Left Arm Thumb 1
+    400076: Huminoid Left Arm Thumb 2
+    400078: Huminoid Left Arm Thumb 3
+    400080: Huminoid Left Arm Upperarm
+    400082: Huminoid Left Leg Ankle
+    400084: Huminoid Left Leg Calf
+    400086: Huminoid Left Leg Foot 1
+    400088: Huminoid Left Leg Foot Toes
+    400090: Huminoid Left Leg Thigh
+    400092: Huminoid Lip Corner L
+    400094: Huminoid Lip Corner R
+    400096: Huminoid Lip Lower
+    400098: Huminoid Lip Lower Mid L
+    400100: Huminoid Lip Lower Mid R
+    400102: Huminoid Lip Upper
+    400104: Huminoid Lip Upper Mid L
+    400106: Huminoid Lip Upper Mid R
+    400108: Huminoid Lower Eye Lid L 01
+    400110: Huminoid Lower Eye Lid L 02
+    400112: Huminoid Lower Eye Lid L 03
+    400114: Huminoid Lower Eye Lid R 01
+    400116: Huminoid Lower Eye Lid R 02
+    400118: Huminoid Lower Eye Lid R 03
+    400120: Huminoid Neck
+    400122: Huminoid Nose Bridge
+    400124: Huminoid Nose Tip
+    400126: Huminoid Nostril L
+    400128: Huminoid Nostril R
+    400130: Huminoid Pelvis
+    400132: Huminoid Ribcage
+    400134: Huminoid Right Arm Collarbone
+    400136: Huminoid Right Arm Forearm1
+    400138: Huminoid Right Arm Forearm2
+    400140: Huminoid Right Arm Forearm3
+    400142: Huminoid Right Arm Hand
+    400144: Huminoid Right Arm Middle 1
+    400146: Huminoid Right Arm Middle 2
+    400148: Huminoid Right Arm Middle 3
+    400150: Huminoid Right Arm Pinky 1
+    400152: Huminoid Right Arm Pinky 2
+    400154: Huminoid Right Arm Pinky 3
+    400156: Huminoid Right Arm Pointer 1
+    400158: Huminoid Right Arm Pointer 2
+    400160: Huminoid Right Arm Pointer 3
+    400162: Huminoid Right Arm Ring 1
+    400164: Huminoid Right Arm Ring 2
+    400166: Huminoid Right Arm Ring 3
+    400168: Huminoid Right Arm Thumb 1
+    400170: Huminoid Right Arm Thumb 2
+    400172: Huminoid Right Arm Thumb 3
+    400174: Huminoid Right Arm Upperarm
+    400176: Huminoid Right Leg Ankle
+    400178: Huminoid Right Leg Calf
+    400180: Huminoid Right Leg Foot 1
+    400182: Huminoid Right Leg Foot Toes
+    400184: Huminoid Right Leg Thigh
+    400186: Huminoid Spine1
+    400188: Huminoid Spine2
+    400190: Huminoid Spine3
+    400192: Huminoid Toung 01
+    400194: Huminoid Toung 02
+    400196: Huminoid Toung 03
+    400198: Huminoid Upper Eye Lid L 01
+    400200: Huminoid Upper Eye Lid L 02
+    400202: Huminoid Upper Eye Lid L 03
+    400204: Huminoid Upper Eye Lid R 01
+    400206: Huminoid Upper Eye Lid R 02
+    400208: Huminoid Upper Eye Lid R 03
+    2100000: Skirt Color 2
+    2100002: Flower Middle
+    2100004: Clothes 04
+    2100006: No Name
+    2300000: Huminoid Cheek L
+    2300002: Huminoid Cheek R
+    2300004: Huminoid Chest Left
+    2300006: Huminoid Chest Right
+    2300008: Huminoid Chin
+    2300010: Huminoid Ear R
+    2300012: Huminoid Ear R 1
+    2300014: Huminoid Eye Brow L 01
+    2300016: Huminoid Eye Brow L 02
+    2300018: Huminoid Eye Brow L 03
+    2300020: Huminoid Eye Brow R 01
+    2300022: Huminoid Eye Brow R 02
+    2300024: Huminoid Eye Brow R 03
+    2300026: Huminoid Eye Left
+    2300028: Huminoid Eye Right
+    2300030: Huminoid Jaw
+    2300032: Huminoid Left Arm Middle 1
+    2300034: Huminoid Left Arm Middle 2
+    2300036: Huminoid Left Arm Middle 3
+    2300038: Huminoid Left Arm Pinky 1
+    2300040: Huminoid Left Arm Pinky 2
+    2300042: Huminoid Left Arm Pinky 3
+    2300044: Huminoid Left Arm Pointer 1
+    2300046: Huminoid Left Arm Pointer 2
+    2300048: Huminoid Left Arm Pointer 3
+    2300050: Huminoid Left Arm Ring 1
+    2300052: Huminoid Left Arm Ring 2
+    2300054: Huminoid Left Arm Ring 3
+    2300056: Huminoid Left Arm Thumb 1
+    2300058: Huminoid Left Arm Thumb 2
+    2300060: Huminoid Left Arm Thumb 3
+    2300062: Huminoid Left Leg Foot 1
+    2300064: Huminoid Left Leg Foot Toes
+    2300066: Huminoid Lip Corner L
+    2300068: Huminoid Lip Corner R
+    2300070: Huminoid Lip Lower
+    2300072: Huminoid Lip Lower Mid L
+    2300074: Huminoid Lip Lower Mid R
+    2300076: Huminoid Lip Upper
+    2300078: Huminoid Lip Upper Mid L
+    2300080: Huminoid Lip Upper Mid R
+    2300082: Huminoid Lower Eye Lid L 01
+    2300084: Huminoid Lower Eye Lid L 02
+    2300086: Huminoid Lower Eye Lid L 03
+    2300088: Huminoid Lower Eye Lid R 01
+    2300090: Huminoid Lower Eye Lid R 02
+    2300092: Huminoid Lower Eye Lid R 03
+    2300094: Huminoid Nose Bridge
+    2300096: Huminoid Nose Tip
+    2300098: Huminoid Nostril L
+    2300100: Huminoid Nostril R
+    2300102: Huminoid Right Arm Middle 1
+    2300104: Huminoid Right Arm Middle 2
+    2300106: Huminoid Right Arm Middle 3
+    2300108: Huminoid Right Arm Pinky 1
+    2300110: Huminoid Right Arm Pinky 2
+    2300112: Huminoid Right Arm Pinky 3
+    2300114: Huminoid Right Arm Pointer 1
+    2300116: Huminoid Right Arm Pointer 2
+    2300118: Huminoid Right Arm Pointer 3
+    2300120: Huminoid Right Arm Ring 1
+    2300122: Huminoid Right Arm Ring 2
+    2300124: Huminoid Right Arm Ring 3
+    2300126: Huminoid Right Arm Thumb 1
+    2300128: Huminoid Right Arm Thumb 2
+    2300130: Huminoid Right Arm Thumb 3
+    2300132: Huminoid Right Leg Foot 1
+    2300134: Huminoid Right Leg Foot Toes
+    2300136: Huminoid Toung 01
+    2300138: Huminoid Toung 02
+    2300140: Huminoid Toung 03
+    2300142: Huminoid Upper Eye Lid L 01
+    2300144: Huminoid Upper Eye Lid L 02
+    2300146: Huminoid Upper Eye Lid L 03
+    2300148: Huminoid Upper Eye Lid R 01
+    2300150: Huminoid Upper Eye Lid R 02
+    2300152: Huminoid Upper Eye Lid R 03
+    3300000: Huminoid Cheek L
+    3300002: Huminoid Cheek R
+    3300004: Huminoid Chest Left
+    3300006: Huminoid Chest Right
+    3300008: Huminoid Chin
+    3300010: Huminoid Ear R
+    3300012: Huminoid Ear R 1
+    3300014: Huminoid Eye Brow L 01
+    3300016: Huminoid Eye Brow L 02
+    3300018: Huminoid Eye Brow L 03
+    3300020: Huminoid Eye Brow R 01
+    3300022: Huminoid Eye Brow R 02
+    3300024: Huminoid Eye Brow R 03
+    3300026: Huminoid Eye Left
+    3300028: Huminoid Eye Right
+    3300030: Huminoid Jaw
+    3300032: Huminoid Left Arm Middle 1
+    3300034: Huminoid Left Arm Middle 2
+    3300036: Huminoid Left Arm Middle 3
+    3300038: Huminoid Left Arm Pinky 1
+    3300040: Huminoid Left Arm Pinky 2
+    3300042: Huminoid Left Arm Pinky 3
+    3300044: Huminoid Left Arm Pointer 1
+    3300046: Huminoid Left Arm Pointer 2
+    3300048: Huminoid Left Arm Pointer 3
+    3300050: Huminoid Left Arm Ring 1
+    3300052: Huminoid Left Arm Ring 2
+    3300054: Huminoid Left Arm Ring 3
+    3300056: Huminoid Left Arm Thumb 1
+    3300058: Huminoid Left Arm Thumb 2
+    3300060: Huminoid Left Arm Thumb 3
+    3300062: Huminoid Left Leg Foot 1
+    3300064: Huminoid Left Leg Foot Toes
+    3300066: Huminoid Lip Corner L
+    3300068: Huminoid Lip Corner R
+    3300070: Huminoid Lip Lower
+    3300072: Huminoid Lip Lower Mid L
+    3300074: Huminoid Lip Lower Mid R
+    3300076: Huminoid Lip Upper
+    3300078: Huminoid Lip Upper Mid L
+    3300080: Huminoid Lip Upper Mid R
+    3300082: Huminoid Lower Eye Lid L 01
+    3300084: Huminoid Lower Eye Lid L 02
+    3300086: Huminoid Lower Eye Lid L 03
+    3300088: Huminoid Lower Eye Lid R 01
+    3300090: Huminoid Lower Eye Lid R 02
+    3300092: Huminoid Lower Eye Lid R 03
+    3300094: Huminoid Nose Bridge
+    3300096: Huminoid Nose Tip
+    3300098: Huminoid Nostril L
+    3300100: Huminoid Nostril R
+    3300102: Huminoid Right Arm Middle 1
+    3300104: Huminoid Right Arm Middle 2
+    3300106: Huminoid Right Arm Middle 3
+    3300108: Huminoid Right Arm Pinky 1
+    3300110: Huminoid Right Arm Pinky 2
+    3300112: Huminoid Right Arm Pinky 3
+    3300114: Huminoid Right Arm Pointer 1
+    3300116: Huminoid Right Arm Pointer 2
+    3300118: Huminoid Right Arm Pointer 3
+    3300120: Huminoid Right Arm Ring 1
+    3300122: Huminoid Right Arm Ring 2
+    3300124: Huminoid Right Arm Ring 3
+    3300126: Huminoid Right Arm Thumb 1
+    3300128: Huminoid Right Arm Thumb 2
+    3300130: Huminoid Right Arm Thumb 3
+    3300132: Huminoid Right Leg Foot 1
+    3300134: Huminoid Right Leg Foot Toes
+    3300136: Huminoid Toung 01
+    3300138: Huminoid Toung 02
+    3300140: Huminoid Toung 03
+    3300142: Huminoid Upper Eye Lid L 01
+    3300144: Huminoid Upper Eye Lid L 02
+    3300146: Huminoid Upper Eye Lid L 03
+    3300148: Huminoid Upper Eye Lid R 01
+    3300150: Huminoid Upper Eye Lid R 02
+    3300152: Huminoid Upper Eye Lid R 03
+    4300000: Head of Flowers
+    4300002: Huminoid Left Leg Foot 1
+    4300004: Huminoid Left Leg Foot Toes
+    4300006: Huminoid Right Leg Foot 1
+    4300008: Huminoid Right Leg Foot Toes
+    4300010: Huminoid Left Arm Thumb 1
+    4300012: Huminoid Left Arm Thumb 2
+    4300014: Huminoid Left Arm Thumb 3
+    4300016: Huminoid Left Arm Pointer 1
+    4300018: Huminoid Left Arm Pointer 2
+    4300020: Huminoid Left Arm Pointer 3
+    4300022: Huminoid Left Arm Middle 1
+    4300024: Huminoid Left Arm Middle 2
+    4300026: Huminoid Left Arm Middle 3
+    4300028: Huminoid Left Arm Ring 1
+    4300030: Huminoid Left Arm Ring 2
+    4300032: Huminoid Left Arm Ring 3
+    4300034: Huminoid Left Arm Pinky 1
+    4300036: Huminoid Left Arm Pinky 2
+    4300038: Huminoid Left Arm Pinky 3
+    4300040: Huminoid Right Arm Thumb 1
+    4300042: Huminoid Right Arm Thumb 2
+    4300044: Huminoid Right Arm Thumb 3
+    4300046: Huminoid Right Arm Pointer 1
+    4300048: Huminoid Right Arm Pointer 2
+    4300050: Huminoid Right Arm Pointer 3
+    4300052: Huminoid Right Arm Middle 1
+    4300054: Huminoid Right Arm Middle 2
+    4300056: Huminoid Right Arm Middle 3
+    4300058: Huminoid Right Arm Ring 1
+    4300060: Huminoid Right Arm Ring 2
+    4300062: Huminoid Right Arm Ring 3
+    4300064: Huminoid Right Arm Pinky 1
+    4300066: Huminoid Right Arm Pinky 2
+    4300068: Huminoid Right Arm Pinky 3
+    4300070: Huminoid Eye Left
+    4300072: Huminoid Eye Right
+    4300074: Huminoid Eye Brow R 02
+    4300076: Huminoid Eye Brow R 03
+    4300078: Huminoid Eye Brow R 01
+    4300080: Huminoid Upper Eye Lid R 02
+    4300082: Huminoid Upper Eye Lid R 01
+    4300084: Huminoid Upper Eye Lid R 03
+    4300086: Huminoid Lower Eye Lid R 02
+    4300088: Huminoid Lower Eye Lid R 01
+    4300090: Huminoid Lower Eye Lid R 03
+    4300092: Huminoid Cheek L
+    4300094: Huminoid Nostril L
+    4300096: Huminoid Lip Corner L
+    4300098: Huminoid Lip Upper Mid L
+    4300100: Huminoid Lip Upper
+    4300102: Huminoid Jaw
+    4300104: Huminoid Toung 01
+    4300106: Huminoid Toung 02
+    4300108: Huminoid Toung 03
+    4300110: Huminoid Lip Lower
+    4300112: Huminoid Lip Lower Mid L
+    4300114: Huminoid Lip Lower Mid R
+    4300116: Huminoid Chin
+    4300118: Huminoid Eye Brow L 02
+    4300120: Huminoid Eye Brow L 03
+    4300122: Huminoid Eye Brow L 01
+    4300124: Huminoid Upper Eye Lid L 02
+    4300126: Huminoid Upper Eye Lid L 01
+    4300128: Huminoid Upper Eye Lid L 03
+    4300130: Huminoid Lower Eye Lid L 02
+    4300132: Huminoid Lower Eye Lid L 01
+    4300134: Huminoid Lower Eye Lid L 03
+    4300136: Huminoid Cheek R
+    4300138: Huminoid Nostril R
+    4300140: Huminoid Lip Corner R
+    4300142: Huminoid Lip Upper Mid R
+    4300144: Huminoid Nose Tip
+    4300146: Huminoid Nose Bridge
+    4300148: Huminoid Ear R
+    4300150: Huminoid Ear R
+    4300152: Huminoid Chest Right
+    4300154: Huminoid Chest Left
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Head of Flowers
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clothes 04
+    second: {fileID: 2100000, guid: 2704248866fcdca4580000d87763df23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower Middle
+    second: {fileID: 2100000, guid: 43a0f68f6f120e243afdc8b6b792abab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 439216b9801a7cf45af41823d8c4b124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skirt Color 2
+    second: {fileID: 2100000, guid: b3ea58b0dc8610e4eaa8bb792a8de287, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Huminoid Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Leg Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Leg Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Leg Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Leg Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Leg Ankle
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Leg Ankle
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Collarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Collarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Upperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Upperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Forearm1
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Forearm1
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Forearm3
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Forearm3
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Leg Foot Toes
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Leg Foot Toes
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Eye Left
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Eye Right
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Thumb 1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Thumb 2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Thumb 3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Pointer 1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Pointer 2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Pointer 3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Middle 1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Middle 2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Middle 3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Ring 1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Ring 2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Ring 3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Pinky 1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Pinky 2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Left Arm Pinky 3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Thumb 1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Thumb 2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Thumb 3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Pointer 1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Pointer 2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Pointer 3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Middle 1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Middle 2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Middle 3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Ring 1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Ring 2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Ring 3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Pinky 1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Pinky 2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Huminoid Right Arm Pinky 3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Human_F(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Geometry
+      parentName: Human_F(Clone)
+      position: {x: -0.000054001808, y: 2.2975917, z: 0.106977254}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Base F
+      parentName: Geometry
+      position: {x: 0.000054001808, y: 0.106977254, z: -2.2975917}
+      rotation: {x: -0.00000023841858, y: -3.6000205e-14, z: 0.0000001509958, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyes
+      parentName: Geometry
+      position: {x: -0.00024138321, y: -0.118258595, z: 1.789484}
+      rotation: {x: 0.70710754, y: -0.00000039913573, z: -0.0000003981327, w: 0.707106}
+      scale: {x: 1.15, y: 1.1499995, z: 1.1499997}
+    - name: Teeth Lower
+      parentName: Geometry
+      position: {x: -0.00022628903, y: -0.128898, z: 1.538341}
+      rotation: {x: 0.0019422735, y: -0.0000004779428, z: 0.00000015046406, w: 0.99999815}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: Teeth Upper
+      parentName: Geometry
+      position: {x: -0.0002267994, y: -0.13191992, z: 1.5519285}
+      rotation: {x: 0.0019424824, y: -8.685448e-10, z: -0.000000566993, w: 0.99999815}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: Tongue
+      parentName: Geometry
+      position: {x: -0.00022645295, y: -0.13120332, z: 1.5427561}
+      rotation: {x: 0.0019420056, y: -0.000000476718, z: 0.00000015176704, w: 0.99999815}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Huminoid
+      parentName: Human_F(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.49999985, z: -0.5, w: 0.5000002}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Pelvis
+      parentName: Huminoid
+      position: {x: -2.3946064, y: 0.020556029, z: -0.0000001315862}
+      rotation: {x: 0.000000003082022, y: 0.000000033036514, z: 0.0017444375, w: 0.9999985}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Huminoid Left Leg Thigh
+      parentName: Huminoid Pelvis
+      position: {x: 0.03534317, y: 0.113171525, z: 0.2819741}
+      rotation: {x: 0.020298906, y: 0.999741, z: -0.004189479, w: -0.009397482}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+    - name: Huminoid Left Leg Calf
+      parentName: Huminoid Left Leg Thigh
+      position: {x: -0.9204737, y: 0.000000346452, z: 0.00000014901161}
+      rotation: {x: -0.000041169602, y: 0.00019566219, z: 0.08177757, w: 0.99665064}
+      scale: {x: 1, y: 0.9999999, z: 0.999996}
+    - name: Huminoid Left Leg Ankle
+      parentName: Huminoid Left Leg Calf
+      position: {x: -1.1174773, y: 0.000000029802322, z: 0.000000014901161}
+      rotation: {x: 0.0021214182, y: -0.010038302, z: -0.6988313, w: 0.71521294}
+      scale: {x: 1.0000002, y: 0.99999976, z: 1.0000001}
+    - name: Huminoid Left Leg Foot 1
+      parentName: Huminoid Left Leg Ankle
+      position: {x: -0.22686937, y: -0.17168748, z: -0.021022886}
+      rotation: {x: 0.0015337779, y: -0.00046165436, z: -0.09540146, w: 0.9954376}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: Huminoid Left Leg Foot Toes
+      parentName: Huminoid Left Leg Foot 1
+      position: {x: -0.27525115, y: -0.000000014901161, z: 0}
+      rotation: {x: -0.0015100343, y: -0.00002483108, z: -0.0164603, w: 0.9998634}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Huminoid Right Leg Thigh
+      parentName: Huminoid Pelvis
+      position: {x: 0.03534293, y: 0.113171525, z: -0.28197417}
+      rotation: {x: 0.02048826, y: 0.99974024, z: 0.0033823282, w: 0.009396924}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Huminoid Right Leg Calf
+      parentName: Huminoid Right Leg Thigh
+      position: {x: -0.92047334, y: 0.0000003501773, z: -0.00000011920929}
+      rotation: {x: 0.00003971125, y: -0.00018300941, z: 0.08149753, w: 0.9966735}
+      scale: {x: 0.9999989, y: 0.9999998, z: 1}
+    - name: Huminoid Right Leg Ankle
+      parentName: Huminoid Right Leg Calf
+      position: {x: -1.1174767, y: -0.000000029802322, z: 0.000000014901161}
+      rotation: {x: -0.002330618, y: 0.0100475885, z: -0.69883096, w: 0.7152125}
+      scale: {x: 0.9999992, y: 1.0000008, z: 1}
+    - name: Huminoid Right Leg Foot 1
+      parentName: Huminoid Right Leg Ankle
+      position: {x: -0.22686937, y: -0.17168744, z: 0.021022901}
+      rotation: {x: -0.001470713, y: -0.00019613412, z: -0.09531629, w: 0.99544597}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Huminoid Right Leg Foot Toes
+      parentName: Huminoid Right Leg Foot 1
+      position: {x: -0.2752511, y: 0.000000014901161, z: 0}
+      rotation: {x: 0.0015100345, y: 0.00002468004, z: -0.016460309, w: 0.9998634}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Huminoid Spine1
+      parentName: Huminoid Pelvis
+      position: {x: -0.112291574, y: -0.008591469, z: -0.000000021322592}
+      rotation: {x: 0.00000003227437, y: -0.00000018465302, z: -0.14295405, w: 0.98972934}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: Huminoid Spine2
+      parentName: Huminoid Spine1
+      position: {x: -0.41912937, y: 0.000000059604645, z: 5.684342e-14}
+      rotation: {x: -0.000000009338566, y: 0.000000048881233, z: 0.16953067, w: 0.98552495}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1}
+    - name: Huminoid Spine3
+      parentName: Huminoid Spine2
+      position: {x: -0.3570423, y: 0, z: 5.684342e-14}
+      rotation: {x: 0.0000000023915818, y: 0.00000005819525, z: 0.07151043, w: 0.99743986}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Huminoid Ribcage
+      parentName: Huminoid Spine3
+      position: {x: -0.38368654, y: 0, z: -5.684342e-14}
+      rotation: {x: 0.00000000431905, y: 0.000000046466408, z: -0.1000562, w: 0.9949818}
+      scale: {x: 0.9999993, y: 0.9999993, z: 0.9999999}
+    - name: Huminoid Chest Left
+      parentName: Huminoid Ribcage
+      position: {x: 0.28944135, y: 0.2499084, z: 0.14124767}
+      rotation: {x: 0.094315305, y: 0.16117534, z: -0.49616992, w: 0.84790486}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Huminoid Chest Right
+      parentName: Huminoid Ribcage
+      position: {x: 0.28944135, y: 0.24990849, z: -0.14124767}
+      rotation: {x: -0.09431551, y: -0.16117577, z: -0.49616987, w: 0.84790474}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Huminoid Left Arm Collarbone
+      parentName: Huminoid Ribcage
+      position: {x: 0.063979626, y: 0.10046296, z: 0.010919845}
+      rotation: {x: 0.063708305, y: 0.6996539, z: 0.1658616, w: 0.6920373}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Left Arm Upperarm
+      parentName: Huminoid Left Arm Collarbone
+      position: {x: -0.31651163, y: 0, z: -0.00000023841858}
+      rotation: {x: 0.095258534, y: 0.022031605, z: -0.16122875, w: 0.98206204}
+      scale: {x: 1.0000001, y: 1, z: 0.9999988}
+    - name: Huminoid Left Arm Forearm1
+      parentName: Huminoid Left Arm Upperarm
+      position: {x: -0.613071, y: -0.0000003799796, z: 0.0000009536743}
+      rotation: {x: 0.06102501, y: -0.030687822, z: -0.029355155, w: 0.99723244}
+      scale: {x: 1.00001, y: 1.0000001, z: 0.9999931}
+    - name: Huminoid Left Arm Forearm2
+      parentName: Huminoid Left Arm Forearm1
+      position: {x: -0.22351652, y: 0, z: 0}
+      rotation: {x: -0.0035587072, y: 3.3143048e-12, z: -9.3131675e-10, w: 0.9999937}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+    - name: Huminoid Left Arm Forearm3
+      parentName: Huminoid Left Arm Forearm2
+      position: {x: -0.22351652, y: -0.000000014901161, z: 0.00000023841858}
+      rotation: {x: -0.006603782, y: -4.9202004e-11, z: 0.000000007450417, w: 0.9999782}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
+    - name: Huminoid Left Arm Hand
+      parentName: Huminoid Left Arm Forearm3
+      position: {x: -0.22351635, y: 0.000000014901161, z: 0.00000023841858}
+      rotation: {x: -0.70616156, y: 0.083636805, z: 0.052449003, w: 0.7011347}
+      scale: {x: 1.0000006, y: 1.0000052, z: 0.9999909}
+    - name: Huminoid Left Arm Middle 1
+      parentName: Huminoid Left Arm Hand
+      position: {x: -0.25695527, y: 0.032989264, z: -0.0053566694}
+      rotation: {x: 0.0020828834, y: -0.029197792, z: -0.0026832547, w: 0.99956787}
+      scale: {x: 1.0000107, y: 0.9999965, z: 0.9999989}
+    - name: Huminoid Left Arm Middle 2
+      parentName: Huminoid Left Arm Middle 1
+      position: {x: -0.10410547, y: 0, z: -0.000000029802322}
+      rotation: {x: 0.000004582337, y: 0.000025659785, z: 0.04136118, w: 0.99914426}
+      scale: {x: 1.0000103, y: 0.9999958, z: 0.99999803}
+    - name: Huminoid Left Arm Middle 3
+      parentName: Huminoid Left Arm Middle 2
+      position: {x: -0.092182875, y: 0, z: 0}
+      rotation: {x: 0.00000011067271, y: -0.00000030168715, z: 0.04541346, w: 0.9989683}
+      scale: {x: 1.0000104, y: 0.9999967, z: 0.99999917}
+    - name: Huminoid Left Arm Pinky 1
+      parentName: Huminoid Left Arm Hand
+      position: {x: -0.2386533, y: -0.017883778, z: -0.12148973}
+      rotation: {x: -0.18078993, y: -0.035623938, z: -0.0067122723, w: 0.9828535}
+      scale: {x: 1.0000001, y: 0.999998, z: 0.999998}
+    - name: Huminoid Left Arm Pinky 2
+      parentName: Huminoid Left Arm Pinky 1
+      position: {x: -0.08862591, y: 0.00000023841858, z: 0}
+      rotation: {x: -0.0000005960461, y: -0.0000011846416, z: 0.041405905, w: 0.99914247}
+      scale: {x: 1.0000001, y: 0.9999978, z: 0.99999917}
+    - name: Huminoid Left Arm Pinky 3
+      parentName: Huminoid Left Arm Pinky 2
+      position: {x: -0.057471275, y: 0.00000023841858, z: 0}
+      rotation: {x: 0.0000004955668, y: 0.0000012390365, z: 0.13274224, w: 0.9911506}
+      scale: {x: 1.0000013, y: 0.9999958, z: 0.99999803}
+    - name: Huminoid Left Arm Pointer 1
+      parentName: Huminoid Left Arm Hand
+      position: {x: -0.2552426, y: 0.01599145, z: 0.06058848}
+      rotation: {x: 0.06607169, y: -0.040457863, z: -0.0024441432, w: 0.9969914}
+      scale: {x: 1.0000108, y: 0.9999955, z: 0.9999985}
+    - name: Huminoid Left Arm Pointer 2
+      parentName: Huminoid Left Arm Pointer 1
+      position: {x: -0.09778774, y: 0, z: -0.000000029802322}
+      rotation: {x: 0.000000077219966, y: -0.000000023436401, z: 0.03437215, w: 0.99940914}
+      scale: {x: 1.0000101, y: 0.99999577, z: 0.9999989}
+    - name: Huminoid Left Arm Pointer 3
+      parentName: Huminoid Left Arm Pointer 2
+      position: {x: -0.08263528, y: 0, z: 0}
+      rotation: {x: 0.00000004735959, y: -0.00000012569093, z: 0.021047145, w: 0.9997785}
+      scale: {x: 0.99999994, y: 0.999996, z: 0.99999803}
+    - name: Huminoid Left Arm Ring 1
+      parentName: Huminoid Left Arm Hand
+      position: {x: -0.24331605, y: 0.022374153, z: -0.067908525}
+      rotation: {x: -0.098947875, y: -0.02578907, z: -0.003093244, w: 0.99475354}
+      scale: {x: 1.0000004, y: 0.99999803, z: 0.99999857}
+    - name: Huminoid Left Arm Ring 2
+      parentName: Huminoid Left Arm Ring 1
+      position: {x: -0.10271299, y: 0, z: 0}
+      rotation: {x: -0.0000001788138, y: -0.00000021606668, z: 0.040961146, w: 0.9991607}
+      scale: {x: 1.0000001, y: 0.99999785, z: 1.0000001}
+    - name: Huminoid Left Arm Ring 3
+      parentName: Huminoid Left Arm Ring 2
+      position: {x: -0.08000672, y: 0, z: 0.000000029802322}
+      rotation: {x: 0.00000006486667, y: 0.00000023633739, z: 0.07304462, w: 0.9973287}
+      scale: {x: 1.0000005, y: 0.9999978, z: 1.0000001}
+    - name: Huminoid Left Arm Thumb 1
+      parentName: Huminoid Left Arm Hand
+      position: {x: -0.08085191, y: -0.00078868866, z: 0.11181703}
+      rotation: {x: 0.42027432, y: 0.25700143, z: -0.20231245, w: 0.846398}
+      scale: {x: 1.0000001, y: 1.0000052, z: 0.9999918}
+    - name: Huminoid Left Arm Thumb 2
+      parentName: Huminoid Left Arm Thumb 1
+      position: {x: -0.13984883, y: 0, z: 0}
+      rotation: {x: -0, y: 0.00000080466214, z: 0.041155316, w: 0.9991528}
+      scale: {x: 1.0000001, y: 1, z: 0.99999714}
+    - name: Huminoid Left Arm Thumb 3
+      parentName: Huminoid Left Arm Thumb 2
+      position: {x: -0.09125483, y: -0.00000011920929, z: 0}
+      rotation: {x: 0.000000028500803, y: -0.0000003418645, z: 0.039715033, w: 0.9992111}
+      scale: {x: 1, y: 1.0000001, z: 0.99999803}
+    - name: Huminoid Neck
+      parentName: Huminoid Ribcage
+      position: {x: -0.0019512177, y: -0.055065326, z: -0.000000020562396}
+      rotation: {x: 1.1343285e-12, y: 0.0005747252, z: -0.009886817, w: 0.99995095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Head
+      parentName: Huminoid Neck
+      position: {x: -0.24321675, y: 0, z: 0}
+      rotation: {x: 2.6581268e-12, y: -0.0005747252, z: 0.009886817, w: 0.99995095}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Cheek L
+      parentName: Huminoid Head
+      position: {x: -0.07825065, y: 0.28781334, z: 0.1762356}
+      rotation: {x: 0.5000001, y: 0.50000167, z: -0.5000001, w: -0.4999981}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+    - name: Huminoid Cheek R
+      parentName: Huminoid Head
+      position: {x: -0.07825065, y: 0.28781334, z: -0.1762356}
+      rotation: {x: 0.50000006, y: 0.5000017, z: 0.50000006, w: 0.49999815}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+    - name: Huminoid Ear R
+      parentName: Huminoid Head
+      position: {x: -0.19093251, y: 0.0813319, z: -0.27446836}
+      rotation: {x: 0.5737284, y: 0.33925894, z: 0.61955506, w: 0.414597}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999997}
+    - name: Huminoid Ear R 1
+      parentName: Huminoid Head
+      position: {x: -0.19093251, y: 0.0813319, z: 0.27446836}
+      rotation: {x: -0.5737284, y: -0.33925894, z: 0.61955506, w: 0.414597}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999997}
+    - name: Huminoid Eye Brow L 02
+      parentName: Huminoid Head
+      position: {x: -0.31523013, y: 0.34756118, z: -0.13297772}
+      rotation: {x: 0.00000022147312, y: 0.00000011570135, z: -0.7071081, w: 0.7071055}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Huminoid Eye Brow L 01
+      parentName: Huminoid Eye Brow L 02
+      position: {x: -0.021029651, y: 0.03162527, z: 0.077378735}
+      rotation: {x: 0.00000037693397, y: -0.000000015893132, z: -0.000000029802317,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Eye Brow L 03
+      parentName: Huminoid Eye Brow L 02
+      position: {x: 0.07531887, y: 0.0068125725, z: -0.08435382}
+      rotation: {x: 0.00000016831738, y: -0.000000015893127, z: -0.00000002980232,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Eye Brow R 02
+      parentName: Huminoid Head
+      position: {x: -0.31523013, y: 0.34756118, z: 0.13297766}
+      rotation: {x: -0.00000017390268, y: -0.00000017390204, z: -0.7071081, w: 0.7071055}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Huminoid Eye Brow R 01
+      parentName: Huminoid Eye Brow R 02
+      position: {x: -0.021029651, y: 0.03162527, z: -0.07737872}
+      rotation: {x: -0.0000004768376, y: -0.0000000083767695, z: -0.000000037749036,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Eye Brow R 03
+      parentName: Huminoid Eye Brow R 02
+      position: {x: 0.07531875, y: 0.0068125725, z: 0.084353805}
+      rotation: {x: -0.00000023841912, y: -0.000000008376778, z: -0.000000037749036,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Eye Left
+      parentName: Huminoid Head
+      position: {x: -0.20806623, y: 0.20875473, z: 0.12955199}
+      rotation: {x: 0.00000024664013, y: 0.00000014086876, z: -0.7071069, w: 0.7071067}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Huminoid Eye Right
+      parentName: Huminoid Head
+      position: {x: -0.20806623, y: 0.20875473, z: -0.12955202}
+      rotation: {x: -0.0000002675115, y: -0.00000018321764, z: -0.7071069, w: 0.7071067}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Huminoid Jaw
+      parentName: Huminoid Head
+      position: {x: -0.07287192, y: 0.043101095, z: 0.000000034313416}
+      rotation: {x: 0.00000012173471, y: 0.00000006296564, z: 0.9063082, w: -0.4226174}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Huminoid Chin
+      parentName: Huminoid Jaw
+      position: {x: -0.27582836, y: 0.001686573, z: -0.00000003867899}
+      rotation: {x: 0.00000004295841, y: -0.00000003600905, z: 0.010479743, w: 0.9999451}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Huminoid Lip Lower
+      parentName: Huminoid Jaw
+      position: {x: -0.30368733, y: -0.08766365, z: -0.000000035826815}
+      rotation: {x: 0.000000020129207, y: -0.000000066754076, z: 0.34201986, w: 0.93969274}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Huminoid Lip Lower Mid L
+      parentName: Huminoid Jaw
+      position: {x: -0.29203725, y: -0.087599754, z: 0.051792875}
+      rotation: {x: 0.0000000017260624, y: -0.000000053066294, z: 0.34201986, w: 0.93969274}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Huminoid Lip Lower Mid R
+      parentName: Huminoid Jaw
+      position: {x: -0.2920375, y: -0.08759928, z: -0.05179289}
+      rotation: {x: 0.000000036033974, y: -0.000000022525048, z: 0.34201986, w: 0.93969274}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Huminoid Toung 01
+      parentName: Huminoid Jaw
+      position: {x: -0.21071124, y: -0.027124166, z: -0.00027927736}
+      rotation: {x: 0.000000059121085, y: -0.00000008283193, z: 0.32839045, w: 0.94454205}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Toung 02
+      parentName: Huminoid Toung 01
+      position: {x: -0.023785502, y: -0.000688076, z: 9.1858965e-10}
+      rotation: {x: -0.000000006573909, y: -0.000000030480308, z: 0.00000003073365,
+        w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Huminoid Toung 03
+      parentName: Huminoid Toung 02
+      position: {x: -0.029711448, y: -0.0008599758, z: 9.5042196e-11}
+      rotation: {x: -0.00000001490122, y: -4.5519147e-14, z: -0.000000014901163, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Huminoid Lip Corner L
+      parentName: Huminoid Head
+      position: {x: 0.041053772, y: 0.30622128, z: 0.10214777}
+      rotation: {x: 0.5000001, y: 0.50000167, z: -0.5000001, w: -0.4999981}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+    - name: Huminoid Lip Corner R
+      parentName: Huminoid Head
+      position: {x: 0.041053772, y: 0.30622128, z: -0.10214774}
+      rotation: {x: 0.5000001, y: 0.50000167, z: 0.5000001, w: 0.4999981}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+    - name: Huminoid Lip Upper
+      parentName: Huminoid Head
+      position: {x: 0.0361948, y: 0.36895213, z: -0.000000010273652}
+      rotation: {x: 0.50000024, y: 0.50000155, z: -0.50000024, w: -0.49999797}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+    - name: Huminoid Lip Upper Mid L
+      parentName: Huminoid Head
+      position: {x: 0.039604425, y: 0.3509942, z: 0.051792774}
+      rotation: {x: 0.50000024, y: 0.50000155, z: -0.50000024, w: -0.49999797}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+    - name: Huminoid Lip Upper Mid R
+      parentName: Huminoid Head
+      position: {x: 0.039604425, y: 0.3509942, z: -0.05179279}
+      rotation: {x: 0.50000024, y: 0.50000155, z: 0.50000024, w: 0.49999797}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+    - name: Huminoid Lower Eye Lid L 02
+      parentName: Huminoid Head
+      position: {x: -0.14363074, y: 0.27739242, z: -0.15311465}
+      rotation: {x: 0.00000072723685, y: 0.00000062146324, z: -0.7071081, w: 0.7071055}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Huminoid Lower Eye Lid L 01
+      parentName: Huminoid Lower Eye Lid L 02
+      position: {x: -0.00016346574, y: 0.002307415, z: 0.049176887}
+      rotation: {x: 0.00000004216816, y: -0.00000070298404, z: -0.000000029802065,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Lower Eye Lid L 03
+      parentName: Huminoid Lower Eye Lid L 02
+      position: {x: 0.011044577, y: -0.03231716, z: -0.046014577}
+      rotation: {x: 0.000001628295, y: -0.000000015893939, z: -0.000000029802298,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Lower Eye Lid R 02
+      parentName: Huminoid Head
+      position: {x: -0.14363074, y: 0.27739242, z: 0.15311465}
+      rotation: {x: -0.00000063203447, y: -0.0000006320322, z: -0.7071081, w: 0.7071055}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Huminoid Lower Eye Lid R 01
+      parentName: Huminoid Lower Eye Lid R 02
+      position: {x: -0.00016352534, y: 0.002307415, z: -0.04917688}
+      rotation: {x: -5.3720206e-13, y: 0.0000006991223, z: 0.000000014901161, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Lower Eye Lid R 03
+      parentName: Huminoid Lower Eye Lid R 02
+      position: {x: 0.011044577, y: -0.03231716, z: 0.046014577}
+      rotation: {x: -0.0000016689308, y: -0.00000001613287, z: 0.0000000149011345,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Nose Bridge
+      parentName: Huminoid Head
+      position: {x: -0.15934348, y: 0.35955217, z: -0.000000007741619}
+      rotation: {x: 0.50000024, y: 0.50000155, z: -0.50000024, w: -0.49999797}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+    - name: Huminoid Nose Tip
+      parentName: Huminoid Head
+      position: {x: -0.059410334, y: 0.3962471, z: -0.000000014872057}
+      rotation: {x: 0.50000024, y: 0.50000155, z: -0.50000024, w: -0.49999797}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+    - name: Huminoid Nostril L
+      parentName: Huminoid Head
+      position: {x: -0.060147047, y: 0.36258218, z: 0.038245603}
+      rotation: {x: 0.5000001, y: 0.50000167, z: -0.5000001, w: -0.4999981}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+    - name: Huminoid Nostril R
+      parentName: Huminoid Head
+      position: {x: -0.060147047, y: 0.36258218, z: -0.03824562}
+      rotation: {x: 0.50000006, y: 0.5000017, z: 0.50000006, w: 0.49999815}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+    - name: Huminoid Upper Eye Lid L 02
+      parentName: Huminoid Head
+      position: {x: -0.2591374, y: 0.29495633, z: -0.1359357}
+      rotation: {x: 0.0000003900608, y: 0.0000002842884, z: -0.7071081, w: 0.7071055}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Huminoid Upper Eye Lid L 01
+      parentName: Huminoid Upper Eye Lid L 02
+      position: {x: 0.0055353045, y: 0.047914505, z: 0.055519752}
+      rotation: {x: 0.00000098114, y: -0.000000015893095, z: -0.000000029802306, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Upper Eye Lid L 03
+      parentName: Huminoid Upper Eye Lid L 02
+      position: {x: 0.025125474, y: 0.0109910965, z: -0.05912429}
+      rotation: {x: 0.000000677885, y: -0.000000015893084, z: -0.000000029802312,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Upper Eye Lid R 02
+      parentName: Huminoid Head
+      position: {x: -0.2591374, y: 0.29495633, z: 0.1359357}
+      rotation: {x: -0.00000038091568, y: -0.0000003809143, z: -0.7071081, w: 0.7071055}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: Huminoid Upper Eye Lid R 01
+      parentName: Huminoid Upper Eye Lid R 02
+      position: {x: 0.0055353343, y: 0.047914505, z: -0.055519767}
+      rotation: {x: -0.0000009387746, y: -0.000000013639976, z: -1.2804863e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Upper Eye Lid R 03
+      parentName: Huminoid Upper Eye Lid R 02
+      position: {x: 0.025125474, y: 0.0109910965, z: 0.05912426}
+      rotation: {x: -0.0000007003545, y: -0.000000013639976, z: -9.552819e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Right Arm Collarbone
+      parentName: Huminoid Ribcage
+      position: {x: 0.063979626, y: 0.10046296, z: -0.010919848}
+      rotation: {x: -0.06370835, y: -0.69965386, z: 0.16586159, w: 0.69203734}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huminoid Right Arm Upperarm
+      parentName: Huminoid Right Arm Collarbone
+      position: {x: -0.31651172, y: 0, z: 0}
+      rotation: {x: -0.09664734, y: -0.021803282, z: -0.16126227, w: 0.98192585}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+    - name: Huminoid Right Arm Forearm1
+      parentName: Huminoid Right Arm Upperarm
+      position: {x: -0.61307126, y: -0.00000028312206, z: -0.0000021457672}
+      rotation: {x: -0.06088964, y: 0.030775111, z: -0.029269762, w: 0.99724054}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999785}
+    - name: Huminoid Right Arm Forearm2
+      parentName: Huminoid Right Arm Forearm1
+      position: {x: -0.22351646, y: 0.000000044703484, z: 0}
+      rotation: {x: 0.0038941745, y: 0.000000014806753, z: -0.000000024272232, w: 0.99999243}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Huminoid Right Arm Forearm3
+      parentName: Huminoid Right Arm Forearm2
+      position: {x: -0.22351658, y: 0, z: 0}
+      rotation: {x: 0.0072262813, y: -0.000000014853662, z: 0.000000006626768, w: 0.9999739}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Huminoid Right Arm Hand
+      parentName: Huminoid Right Arm Forearm3
+      position: {x: -0.22351658, y: -0.000000014901161, z: -0.00000047683716}
+      rotation: {x: 0.7063704, y: -0.08373745, z: 0.052727517, w: 0.7008914}
+      scale: {x: 0.9999971, y: 1.0000023, z: 0.9999976}
+    - name: Huminoid Right Arm Middle 1
+      parentName: Huminoid Right Arm Hand
+      position: {x: -0.2569548, y: 0.032988787, z: 0.005356461}
+      rotation: {x: -0.0020831518, y: 0.029143091, z: -0.0028206585, w: 0.9995692}
+      scale: {x: 0.9999948, y: 1.0000001, z: 1.0000001}
+    - name: Huminoid Right Arm Middle 2
+      parentName: Huminoid Right Arm Middle 1
+      position: {x: -0.10410547, y: 0, z: 0}
+      rotation: {x: -0.0000046261093, y: -0.00002581811, z: 0.041362718, w: 0.9991442}
+      scale: {x: 0.99999475, y: 0.9999999, z: 0.9999998}
+    - name: Huminoid Right Arm Middle 3
+      parentName: Huminoid Right Arm Middle 2
+      position: {x: -0.09218311, y: 0, z: 0}
+      rotation: {x: 0.000000040469732, y: 0.00000027872957, z: 0.045411073, w: 0.9989684}
+      scale: {x: 0.9999949, y: 1, z: 1}
+    - name: Huminoid Right Arm Pinky 1
+      parentName: Huminoid Right Arm Hand
+      position: {x: -0.23865259, y: -0.017884016, z: 0.12148994}
+      rotation: {x: 0.18078455, y: 0.035548188, z: -0.006845918, w: 0.9828563}
+      scale: {x: 0.9999961, y: 1.0000002, z: 0.9999999}
+    - name: Huminoid Right Arm Pinky 2
+      parentName: Huminoid Right Arm Pinky 1
+      position: {x: -0.08862603, y: 0, z: 0.000000059604645}
+      rotation: {x: -0.000000089406925, y: 0.0000013485544, z: 0.041404705, w: 0.9991425}
+      scale: {x: 0.99999714, y: 1.0000001, z: 1.0000002}
+    - name: Huminoid Right Arm Pinky 3
+      parentName: Huminoid Right Arm Pinky 2
+      position: {x: -0.057471037, y: 0, z: -0.000000059604645}
+      rotation: {x: -0.00000033363187, y: -0.0000011572182, z: 0.13273886, w: 0.99115103}
+      scale: {x: 0.99999434, y: 1.0000007, z: 1}
+    - name: Huminoid Right Arm Pointer 1
+      parentName: Huminoid Right Arm Hand
+      position: {x: -0.25524187, y: 0.01599145, z: -0.060588688}
+      rotation: {x: -0.06607544, y: 0.04040286, z: -0.0025870188, w: 0.996993}
+      scale: {x: 0.9999949, y: 1.0000002, z: 1}
+    - name: Huminoid Right Arm Pointer 2
+      parentName: Huminoid Right Arm Pointer 1
+      position: {x: -0.09778786, y: 0, z: -0.000000059604645}
+      rotation: {x: -0.000000011307168, y: -0.00000010475919, z: 0.034370966, w: 0.99940914}
+      scale: {x: 0.99999493, y: 0.99999994, z: 1}
+    - name: Huminoid Right Arm Pointer 3
+      parentName: Huminoid Right Arm Pointer 2
+      position: {x: -0.08263528, y: -0.00000023841858, z: 0}
+      rotation: {x: 0.000000040969123, y: 8.6242774e-10, z: 0.021046013, w: 0.9997785}
+      scale: {x: 0.9999949, y: 0.9999999, z: 1}
+    - name: Huminoid Right Arm Ring 1
+      parentName: Huminoid Right Arm Hand
+      position: {x: -0.24331558, y: 0.022374392, z: 0.067908645}
+      rotation: {x: 0.09894645, y: 0.025728658, z: -0.0032265205, w: 0.99475485}
+      scale: {x: 0.99999696, y: 1.0000001, z: 0.99999994}
+    - name: Huminoid Right Arm Ring 2
+      parentName: Huminoid Right Arm Ring 1
+      position: {x: -0.10271287, y: 0, z: -0.000000059604645}
+      rotation: {x: 0.00000012665981, y: 0.00000017322591, z: 0.04096165, w: 0.9991607}
+      scale: {x: 0.99999803, y: 1.0000001, z: 1.0000001}
+    - name: Huminoid Right Arm Ring 3
+      parentName: Huminoid Right Arm Ring 2
+      position: {x: -0.08000672, y: 0, z: -0.000000029802322}
+      rotation: {x: -0.000000029346134, y: -0.00000021132446, z: 0.07304275, w: 0.9973288}
+      scale: {x: 0.9999991, y: 1.0000004, z: 1.0000001}
+    - name: Huminoid Right Arm Thumb 1
+      parentName: Huminoid Right Arm Hand
+      position: {x: -0.08085179, y: -0.0007879734, z: -0.11181724}
+      rotation: {x: -0.42024204, y: -0.25703353, z: -0.20243876, w: 0.8463741}
+      scale: {x: 0.9999998, y: 0.9999988, z: 0.99999857}
+    - name: Huminoid Right Arm Thumb 2
+      parentName: Huminoid Right Arm Thumb 1
+      position: {x: -0.13984907, y: 0.00000011920929, z: 0.00000023841858}
+      rotation: {x: -0.000000059604616, y: 0.000000029802308, z: 0.041151095, w: 0.99915296}
+      scale: {x: 0.999999, y: 0.99999917, z: 1.0000001}
+    - name: Huminoid Right Arm Thumb 3
+      parentName: Huminoid Right Arm Thumb 2
+      position: {x: -0.09125483, y: 0, z: 0}
+      rotation: {x: 0.000000026571241, y: 0.00000026948902, z: 0.03971462, w: 0.9992111}
+      scale: {x: 0.99999917, y: 0.99999917, z: 1.0000001}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 611f32b56312ff441913f176f4e1d572,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
